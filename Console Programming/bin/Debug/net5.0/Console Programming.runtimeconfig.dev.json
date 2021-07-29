@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\runo_\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\runo_\\.nuget\\packages"
-    ]
-  }
-}
