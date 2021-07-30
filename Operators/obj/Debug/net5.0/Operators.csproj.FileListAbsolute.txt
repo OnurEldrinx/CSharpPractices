@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\runo_\Desktop\CSharpPractices\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
