@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace ForLoop
 {
@@ -78,6 +79,52 @@ namespace ForLoop
 
                 Console.WriteLine(i);
             }
+
+            
+            int n = 6;
+
+            char[] stars;
+            
+            for(int i=1;i<=n;i++){
+
+                stars = new char[i];
+                Array.Fill<char>(stars,'#');
+
+                for(int j=1;j<=n-i;j++){
+
+                    Console.Write(' ');
+
+                }
+
+                Console.Write(string.Join("",stars));
+                Console.WriteLine();
+
+                
+            }
+
+            
+            Console.WriteLine();
+
+            // This solution takes too much time to run!
+
+            for(int i=1 ; i<=n ; i++){
+            
+                for(int j=n-i ; j>=1 ; j--){
+                
+                    Console.Write(" ");
+                
+                }
+            
+                for(int s=1 ; s<=i ; s++){
+                
+                Console.Write("#");
+                
+                }
+
+                Console.WriteLine();
+            
+            }
+            
 
 
         }
