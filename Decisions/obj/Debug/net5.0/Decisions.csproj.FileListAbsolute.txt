@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.exe
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\ref\Decisions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\bin\Debug\net5.0\Decisions.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\ref\Decisions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Decisions\obj\Debug\net5.0\Decisions.genruntimeconfig.cache
