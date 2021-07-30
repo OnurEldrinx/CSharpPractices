@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.exe
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.dll
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\bin\Debug\net5.0\While-ForEach.pdb
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.dll
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.pdb
+C:\Users\runo_\Desktop\CSharpPractices\While-ForEach\obj\Debug\net5.0\While-ForEach.genruntimeconfig.cache
