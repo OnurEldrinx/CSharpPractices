@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.exe
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\ref\Type Conversions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\bin\Debug\net5.0\Type Conversions.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\ref\Type Conversions.dll
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Type Conversions\obj\Debug\net5.0\Type Conversions.genruntimeconfig.cache
