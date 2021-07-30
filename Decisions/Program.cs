@@ -30,7 +30,7 @@ namespace Decisions
 
             }
 
-
+            // Ternary If
             string messageText = time <= 18 ? "Have a nice day!" : "Good evening!";
             Console.WriteLine(messageText); 
 
