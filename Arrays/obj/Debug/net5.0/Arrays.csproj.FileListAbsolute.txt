@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
