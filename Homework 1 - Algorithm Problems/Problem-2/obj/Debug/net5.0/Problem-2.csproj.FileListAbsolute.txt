@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.exe
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.dll
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\ref\Problem-2.dll
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\bin\Debug\net5.0\Problem-2.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.dll
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\ref\Problem-2.dll
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Homework 1 - Algorithm Problems\Problem-2\obj\Debug\net5.0\Problem-2.genruntimeconfig.cache
