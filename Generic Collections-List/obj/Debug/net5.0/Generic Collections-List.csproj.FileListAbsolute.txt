@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.exe
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.dll
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\ref\Generic Collections-List.dll
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\bin\Debug\net5.0\Generic Collections-List.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.dll
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\ref\Generic Collections-List.dll
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Generic Collections-List\obj\Debug\net5.0\Generic Collections-List.genruntimeconfig.cache
