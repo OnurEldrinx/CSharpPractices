@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.exe
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\ref\DateTime&Math Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\bin\Debug\net5.0\DateTime&Math Methods.pdb
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\ref\DateTime&Math Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.pdb
+C:\Users\runo_\Desktop\CSharpPractices\DateTime&Math Methods\obj\Debug\net5.0\DateTime&Math Methods.genruntimeconfig.cache
