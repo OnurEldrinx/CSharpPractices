@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.exe
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\ref\String Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\bin\Debug\net5.0\String Methods.pdb
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\ref\String Methods.dll
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.pdb
+C:\Users\runo_\Desktop\CSharpPractices\String Methods\obj\Debug\net5.0\String Methods.genruntimeconfig.cache
