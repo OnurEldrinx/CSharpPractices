@@ -7,6 +7,20 @@ namespace Generic_Collections_List
 {
     class Program
     {
+
+        public static void PrintArray<T>(T[] list){
+
+            foreach (var x in list)
+            {
+                
+                Console.WriteLine(x);
+
+            }
+
+
+
+        }
+
         static void Main(string[] args)
         {
             // List<T>
@@ -17,6 +31,11 @@ namespace Generic_Collections_List
             List<string> colors = new List<string>();
             colors.Add("RED");
             colors.Add("YELLOW");
+
+            int[] numbersArray = {0,1,2,3,4,5,6,7,8,9};
+            string[] colorsArray = {"Red","Yellow","Blue"};
+            PrintArray<int>(numbersArray);
+            PrintArray<string>(colorsArray);
 
             //Count
             Console.WriteLine("Size of 'numbers' list : "+numbers.Count); // number of elements
