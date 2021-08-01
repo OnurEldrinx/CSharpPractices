@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.exe
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.dll
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\ref\Collections-Dictionary.dll
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\bin\Debug\net5.0\Collections-Dictionary.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.dll
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\ref\Collections-Dictionary.dll
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Collections-Dictionary\obj\Debug\net5.0\Collections-Dictionary.genruntimeconfig.cache
