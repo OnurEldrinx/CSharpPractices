@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.exe
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\ref\Class Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\bin\Debug\net5.0\Class Definition.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\ref\Class Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Class Definition\obj\Debug\net5.0\Class Definition.genruntimeconfig.cache
