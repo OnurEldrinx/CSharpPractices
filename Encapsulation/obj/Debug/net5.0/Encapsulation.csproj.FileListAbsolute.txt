@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
