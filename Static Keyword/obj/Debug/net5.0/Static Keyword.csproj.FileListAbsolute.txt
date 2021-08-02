@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.exe
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.dll
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\ref\Static Keyword.dll
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\bin\Debug\net5.0\Static Keyword.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.dll
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\ref\Static Keyword.dll
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Static Keyword\obj\Debug\net5.0\Static Keyword.genruntimeconfig.cache
