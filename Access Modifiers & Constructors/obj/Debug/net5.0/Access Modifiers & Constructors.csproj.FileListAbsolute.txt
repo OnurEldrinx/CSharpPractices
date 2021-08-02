@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.exe
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.dll
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\ref\Access Modifiers & Constructors.dll
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\bin\Debug\net5.0\Access Modifiers & Constructors.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.dll
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\ref\Access Modifiers & Constructors.dll
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Access Modifiers & Constructors\obj\Debug\net5.0\Access Modifiers & Constructors.genruntimeconfig.cache
