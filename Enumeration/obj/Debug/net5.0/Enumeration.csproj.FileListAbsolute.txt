@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.exe
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.dll
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\ref\Enumeration.dll
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\bin\Debug\net5.0\Enumeration.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.dll
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\ref\Enumeration.dll
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Enumeration\obj\Debug\net5.0\Enumeration.genruntimeconfig.cache
