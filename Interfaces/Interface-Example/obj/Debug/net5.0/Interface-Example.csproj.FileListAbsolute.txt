@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.exe
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.dll
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\ref\Interface-Example.dll
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\bin\Debug\net5.0\Interface-Example.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.dll
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\ref\Interface-Example.dll
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Interfaces\Interface-Example\obj\Debug\net5.0\Interface-Example.genruntimeconfig.cache
