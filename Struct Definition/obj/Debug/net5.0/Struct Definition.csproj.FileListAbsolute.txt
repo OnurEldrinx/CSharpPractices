@@ -1,0 +1,16 @@
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.exe
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.deps.json
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.runtimeconfig.json
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.runtimeconfig.dev.json
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\ref\Struct Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\bin\Debug\net5.0\Struct Definition.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.csproj.AssemblyReference.cache
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.AssemblyInfoInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.AssemblyInfo.cs
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.csproj.CoreCompileInputs.cache
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\ref\Struct Definition.dll
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.pdb
+C:\Users\runo_\Desktop\CSharpPractices\Struct Definition\obj\Debug\net5.0\Struct Definition.genruntimeconfig.cache
